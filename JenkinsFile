@@ -3,7 +3,7 @@ pipeline
 agent any
 environment
 {
-  notifyEmail="arun02@nagarro.com"
+  notifyEmail="arunsinghratwaana@gmail.com"
 }
   tools
 {
