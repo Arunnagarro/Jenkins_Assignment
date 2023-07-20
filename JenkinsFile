@@ -7,7 +7,7 @@ environment
 }
   tools
 {
-   maven 'C:,apache-maven-3.8.5-bin,apache-maven-3.8.5'
+   maven 'local'
 }
 triggers
 {
