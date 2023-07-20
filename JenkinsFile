@@ -7,7 +7,7 @@ environment
 }
   tools
 {
-   maven 'local'
+   maven 'Maven home'
 }
 triggers
 {
