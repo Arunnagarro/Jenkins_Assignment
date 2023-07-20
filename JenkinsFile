@@ -5,10 +5,7 @@ environment
 {
   notifyEmail="arunsinghratwaana@gmail.com"
 }
-  tools
-{
-   maven 'm2_home'
-}
+
 triggers
 {
   cron('0.06 * * *')
