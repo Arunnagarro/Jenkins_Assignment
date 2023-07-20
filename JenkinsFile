@@ -7,7 +7,7 @@ environment
 }
   tools
 {
-   maven 'C:_apache-maven-3.8.5-bin_apache-maven-3.8.5'
+   maven 'C:,apache-maven-3.8.5-bin,apache-maven-3.8.5'
 }
 triggers
 {
