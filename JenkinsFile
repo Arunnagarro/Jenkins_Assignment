@@ -1,7 +1,18 @@
 pipeline
 {
 agent any
-
+environment
+{
+  notifyEmail="arunsinghratwaana@gmail.com"
+}
+  tools
+{
+   maven 'maven_home'
+}
+triggers
+{
+  cron('0.06 * * *')
+}
 stages
 {
   stage("code checkout"){
