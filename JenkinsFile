@@ -9,10 +9,10 @@ environment
 {
    maven 'MAVEN_HOME'
 }
-triggers
-{
-  cron('0.06 * * *')
-}
+//triggers
+//{
+//  cron('0.06 * * *')
+//}
 stages
 {
   stage("code checkout"){
