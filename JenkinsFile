@@ -7,7 +7,7 @@ environment
 }
   tools
 {
-   maven "Maven_Home"
+   maven "TestMaven"
 }
 triggers
 {
