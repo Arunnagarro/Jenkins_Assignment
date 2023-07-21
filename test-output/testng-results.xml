@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-28T07:26:34Z" name="Suite" finished-at="2023-06-28T07:26:42Z" duration-ms="7655">
+  <suite started-at="2023-07-21T06:43:36Z" name="Default suite" finished-at="2023-07-21T06:44:27Z" duration-ms="51101">
     <groups>
     </groups>
-    <test started-at="2023-06-28T07:26:34Z" name="Test" finished-at="2023-06-28T07:26:42Z" duration-ms="7655">
+    <test started-at="2023-07-21T06:43:36Z" name="Default test" finished-at="2023-07-21T06:44:27Z" duration-ms="51101">
       <class name="jenkins.ui">
-        <test-method signature="startbrower()[pri:0, instance:jenkins.ui@4ea5b703]" started-at="2023-06-28T07:26:34Z" name="startbrower" finished-at="2023-06-28T07:26:42Z" duration-ms="7636" status="PASS">
+        <test-method signature="startbrower()[pri:0, instance:jenkins.ui@6f1c29b7]" started-at="2023-07-21T06:43:36Z" name="startbrower" finished-at="2023-07-21T06:44:27Z" duration-ms="51068" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startbrower -->
       </class> <!-- jenkins.ui -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
